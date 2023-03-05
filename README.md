@@ -1,7 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-	<title>TermX</title>
 </head>
 <body>
 <h2><span style="font-family:Arial,Helvetica,sans-serif">TermX</span></h2>
